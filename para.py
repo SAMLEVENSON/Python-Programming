@@ -1,0 +1,5 @@
+print("Count the given words:")
+print("Input:")
+a=input()
+list=a.split(".")
+print( len(list))
