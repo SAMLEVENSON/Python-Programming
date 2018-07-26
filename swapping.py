@@ -1,4 +1,5 @@
-a=int(input())
-b=int(input())
-a,b=b,a
-print(a,b)
+z=int(input())
+x=int(input())
+
+z,x=x,z
+print(z,x)  
