@@ -9,3 +9,5 @@ for c in range(c):
 for e in d:
     if e in b:
         print("YES")
+    else:
+        print("NO")
